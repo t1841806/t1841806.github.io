@@ -45,7 +45,7 @@
   "EvaluateStateMachine": "0x1DD",
   "FOV": "0x160",
   "FakeDataModelPointer": "0x78A24C8",
-  "FakeDataModelToDataModel": "0x1B0",
+  "FakeDataModelToDataModel": "0x1C0",
   "FogColor": "0xFC",
   "FogEnd": "0x134",
   "FogStart": "0x138",
@@ -142,7 +142,7 @@
   "SunTextureId": "0x230",
   "TagList": "0x0",
   "TaskSchedulerMaxFPS": "0x1B0",
-  "TaskSchedulerPointer": "0x79E1868",
+  "TaskSchedulerPointer": "0x7065E7C",
   "Team": "0x2954D",
   "TeamColor": "0xD0",
   "TextLabelText": "0x410",
@@ -159,7 +159,7 @@
   "VisualEngineToDataModel2": "0x1C0",
   "WalkSpeed": "0x1D4",
   "WalkSpeedCheck": "0x3C0",
-  "Workspace": "0x178",
+  "Workspace": "0x170",
   "WorkspaceToWorld": "0x398",
   "viewmatrix": "0x4B0"
 }
